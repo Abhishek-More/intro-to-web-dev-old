@@ -1,5 +1,4 @@
 # Intro to Web Dev Workshop
----
 
 ## Goal
 
@@ -29,7 +28,7 @@ Then, run the express app with
 
 `node app.js`
 
-##Libraries used
+## Resources used
 - Bulma (CSS Library): https://bulma.io/
 - Axios (JavaScript API Library): https://axios-http.com/docs/intro
 - Node (Backend JavaScript): https://nodejs.org/en/
