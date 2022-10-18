@@ -2,7 +2,7 @@
 
 ## Goal
 
-Provide beginners and those with limited website development experience the tools and knowledge to build a full-stack website (both a frontend and backend).
+Provide web development beginners with the tools and knowledge to build a full-stack website (both a frontend and backend).
 
 ## Covered Material
 ##### Basic Front-end: HTML / CSS / JS
